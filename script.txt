@@ -1,0 +1,7 @@
+cd c:\
+cd /d c:
+cd c:\Program Files\Java\jdk1.8.0_181\bin\
+javac.exe c:\Users\Gabriel\Desktop\test\Hello.java
+cd c:\Users\Gabriel\Desktop\test
+java -cp . Hello
+
